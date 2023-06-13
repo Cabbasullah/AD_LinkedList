@@ -1,0 +1,13 @@
+
+Dakir:
+  9000.0 : Sat Dec 12 00:00:00 ICT 2020 : Fadkir
+
+Device:
+  900.0 : Thu Jan 02 00:00:00 ICT 2020 : Phone
+
+  300.0 : Mon Jan 02 00:00:00 ICT 2023 : Laptop
+
+Food:
+  2129.0 : Sun Jan 02 00:00:00 ICT 2000 : Nasi Goreng
+
+
